@@ -1,6 +1,4 @@
 import React from 'react'
-import halfellipse1 from '../assets/images/halfellipse1.png'
-import halfellipse2 from '../assets/images/halfellipse2.png'
 const Section3 = () => {
   return (
     <div>
