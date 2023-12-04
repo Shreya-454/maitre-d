@@ -4,7 +4,7 @@ import herologo from '../assets/images/herologo.png'
 const Mynav = () => {
     return (
         <div>
-            <section className='hero-section-bg min-h-1140  relative'>
+            <section className='hero-section-bg min-h-1140 z-1 relative'>
                 <nav className='py-30'>
                     <div className="container">
                         <div className='d-flex justify-content-between align-items-center'>

@@ -203,6 +203,9 @@
 
 /*========== herosection====== */
 
+.z-1{
+  z-index: 1;
+}
 .relative {
   position: relative;
 }
@@ -214,6 +217,7 @@
   background: #ECB239;
   position: absolute;
   right: 5%;
+  z-index: -1;
   top: 20%;
 }
 
